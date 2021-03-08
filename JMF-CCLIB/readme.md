@@ -2,6 +2,8 @@ From: Jarvist Moore Frost <jarvist@...>
 To: James Kirkpatrick <james.a.kirkpatrick@...>
 Cc: <r.mackenzie@...>
 
+Wed, 8 Jul 2009, 17:30
+
 Hi guys,
 
 Here's a little variation with cclib, uses the same dim/part1/part2
